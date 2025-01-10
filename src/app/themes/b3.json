@@ -1,0 +1,129 @@
+{
+    "title": {
+      "es": "Autoevaluación - Dispositivos, estilos y paradigmas",
+      "en": "Self-Assessment - Devices, Styles, and Paradigms"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "es": "El aislamiento de los dispositivos físicos con el tipo de entrada se realiza creando dispositivos lógicos.",
+          "en": "The isolation of physical devices from the type of input is achieved by creating logical devices."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "es": "Si quiero introducir texto mediante un teclado virtual a través de un ratón, la BIT que debo utilizar en la SELECCIÓN.",
+          "en": "If I want to input text using a virtual keyboard via a mouse, the BIT I should use is SELECTION."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "es": "Los BIT son el conjunto de tareas que puede realizarse en una aplicación.",
+          "en": "BITs are the set of tasks that can be performed in an application."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "es": "¿Para obtener un tipo de dato existe un único dispositivo físico?",
+          "en": "Is there only one physical device to obtain a specific type of data?"
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "es": "¿Se utiliza siempre el dispositivo físico más adaptado al usuario para introducir un determinado dato?",
+          "en": "Is the physical device most suited to the user always used to input specific data?"
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "es": "Para obtener una coordenada se utiliza la BIT SELECCIÓN.",
+          "en": "The BIT SELECTION is used to obtain a coordinate."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "es": "Es conveniente aislar las características físicas de los dispositivos del tipo de entrada que se desa procesar.",
+          "en": "It is advisable to isolate the physical characteristics of devices from the type of input to be processed."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 8,
+        "question": {
+          "es": "¿Depende la información con significado que se obtiene de un dispositivo del contexto de la aplicación?",
+          "en": "Does the meaningful information obtained from a device depend on the application's context?"
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,189 @@
+{
+    "title": {
+      "es": "Autoevaluación - Evaluación",
+      "en": "Self-Assessment - Evaluation"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "es": "El método \"Recorrido de la Usabilidad plural\" (o \"Recorrido pluralístico\") es realizado sólo por expertos en Usabilidad.",
+          "en": "The \"Pluralistic Usability Walkthrough\" method (or \"Pluralistic Walkthrough\") is conducted only by usability experts."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "es": "El método de evaluación conocido como \"Recorrido cognitivo\" se centra en evaluar su facilidad de aprendizaje básicamente mediante la exploración.",
+          "en": "The evaluation method known as \"Cognitive Walkthrough\" focuses on assessing ease of learning primarily through exploration."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "es": "La regla de Usabilidad \"Control y libertad para el usuario\" puede ser evaluada mediante una evaluación heurística.",
+          "en": "The usability rule \"Control and freedom for the user\" can be evaluated through heuristic evaluation."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "es": "En el método \"Pensando en voz alta (thinking aloud)\", se les pide a los usuarios que comenten todo lo que recuerdan de la interfaz después de interaccionar con ella.",
+          "en": "In the \"Thinking Aloud\" method, users are asked to comment on everything they remember about the interface after interacting with it."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "es": "El \"Estudio de campo pro-activo\" es un método de evaluación de tipo Inspección.",
+          "en": "The \"Proactive Field Study\" is an inspection-type evaluation method."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "es": "En un \"Grupo de discusión dirigido\" (\"focus group\"), se reúnen un experto y un usuario representativo y discuten sobre aspectos relacionados con el sistema.",
+          "en": "In a \"Focus Group,\" an expert and a representative user meet to discuss system-related aspects."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "es": "El método \"Medidas de prestaciones\" permite obtener medidas de rendimiento objetivas y no medidas de rendimiento subjetivas.",
+          "en": "The \"Performance Metrics\" method allows obtaining objective performance measures rather than subjective ones."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 8,
+        "question": {
+          "es": "La evaluación estudia la Usabilidad de un Sistema Interactivo en diferentes etapas del ciclo de vida.",
+          "en": "Evaluation studies the usability of an interactive system at different stages of its life cycle."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 9,
+        "question": {
+          "es": "En el método de \"Estudio de campo pro-activo\" no se realizan preguntas a los usuarios.",
+          "en": "In the \"Proactive Field Study\" method, no questions are asked to users."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 10,
+        "question": {
+          "es": "Un \"Cuestionario\" permite llegar a un grupo de usuarios más numeroso que una entrevista, aunque la información que se puede analizar será de menor rigor.",
+          "en": "A \"Questionnaire\" allows reaching a larger group of users than an interview, although the information analyzed will be less rigorous."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 11,
+        "question": {
+          "es": "El método \"Grabación del uso\" (logging) recoge automáticamente estadísticas sobre el uso detallado del sistema.",
+          "en": "The \"Usage Logging\" method automatically collects statistics on detailed system usage."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 12,
+        "question": {
+          "es": "El método \"Test retrospectivo\" permite obtener comentarios de los usuarios mientras se revisan los videos en los que aparecen utilizando el sistema.",
+          "en": "The \"Retrospective Testing\" method allows obtaining user feedback while reviewing videos of them using the system."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      }
+    ]
+  }
+  

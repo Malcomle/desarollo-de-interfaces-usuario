@@ -1,0 +1,84 @@
+{
+    "title": {
+      "es": "Autoevaluación - Metáforas",
+      "en": "Self-Assessment - Metaphors"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "es": "Las metáforas más utilizadas en informática son las metáforas verbales.",
+          "en": "The most commonly used metaphors in computer science are verbal metaphors."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "es": "La primera metáfora visual fue la metáfora de la oficina física.",
+          "en": "The first visual metaphor was the physical office metaphor."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "es": "En una metáfora visual, los objetos físicos son transformados en representaciones pictóricas.",
+          "en": "In a visual metaphor, physical objects are transformed into pictorial representations."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "es": "Las personas entendemos las metáforas adivinando su significado.",
+          "en": "People understand metaphors by guessing their meaning."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "es": "La metáfora global se utiliza como el marco para todas las otras metáforas del sistema.",
+          "en": "The global metaphor is used as the framework for all other system metaphors."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      }
+    ]
+  }
+  

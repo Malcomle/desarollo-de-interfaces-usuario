@@ -1,0 +1,159 @@
+{
+    "title": {
+      "es": "Autoevaluación - Documentación y ayuda",
+      "en": "Self-Assessment - Documentation and Help"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "es": "Un tutorial se utiliza para enseñar a un usuario el producto.",
+          "en": "A tutorial is used to teach a user about the product."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "es": "Un archivo 'Léame' no es un tipo de ayuda.",
+          "en": "A 'Readme' file is not a type of help."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "es": "La 'Ayuda sensible al contexto' también se puede utilizar para acceder a cuadros de diálogo relacionados con la ayuda.",
+          "en": "'Context-sensitive help' can also be used to access help-related dialog boxes."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "es": "Una 'Referencia rápida' se utiliza para conocer las pantallas más importantes de la IU.",
+          "en": "A 'Quick Reference' is used to understand the most important screens of the UI."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "es": "Todos los documentos sobre una aplicación están pensados para que el usuario pueda aprender a manejar dicha aplicación.",
+          "en": "All documents about an application are designed to help users learn how to use it."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "es": "Un documento de 'Características' (Overview) se utiliza para una descripción concisa del producto.",
+          "en": "A 'Features' document (Overview) is used for a concise product description."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "es": "La pantalla de un ordenador es el soporte más adecuado para la lectura de una ayuda.",
+          "en": "The computer screen is the most suitable medium for reading help."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 8,
+        "question": {
+          "es": "Un 'tip' o 'Mensaje de texto' se genera cuando pasamos el ratón por un icono o una campo de texto.",
+          "en": "A 'tip' or 'tooltip' is generated when we hover over an icon or a text field."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 9,
+        "question": {
+          "es": "Una 'Demo online' se utiliza como una forma de ayuda contextual.",
+          "en": "An 'Online Demo' is used as a form of contextual help."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 10,
+        "question": {
+          "es": "La documentación puede poseer distintos formatos.",
+          "en": "Documentation can have different formats."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      }
+    ]
+  }
+  

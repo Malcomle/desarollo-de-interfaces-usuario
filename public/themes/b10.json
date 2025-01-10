@@ -1,0 +1,129 @@
+{
+    "title": {
+      "es": "Autoevaluación - Internacionalización",
+      "en": "Self-Assessment - Internationalization"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "es": "Las escrituras se pueden clasificar en ideogramas y escrituras fonéticas.",
+          "en": "Writings can be classified into ideograms and phonetic scripts."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "es": "El problema principal de un software internacionalizado es como adaptar la interfaz a diferentes países o regiones.",
+          "en": "The main problem of internationalized software is how to adapt the interface to different countries or regions."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "es": "Un programa internacionalizado puede tener algunos elementos dependientes de la lengua o del contexto cultural de un país en el código.",
+          "en": "An internationalized program can have some elements in the code dependent on the language or cultural context of a country."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "es": "Un software internacionalizado es un producto que está preparado para ser utilizado fuera de la región o país donde fue creado.",
+          "en": "Internationalized software is a product designed to be used outside the region or country where it was created."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "es": "El Calendario no es un aspecto a considerar en la internacionalización de un producto.",
+          "en": "The calendar is not a factor to consider in the internationalization of a product."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "es": "Unicode es un esquema de codificación de tamaño variable.",
+          "en": "Unicode is a variable-length encoding scheme."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "es": "Las unidades de medida que se usan en el mundo son las mismas, por tanto no es un aspecto necesario a considerar en un sistema internacionalizado.",
+          "en": "The units of measurement used worldwide are the same, so they are not necessary to consider in an internationalized system."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 8,
+        "question": {
+          "es": "Un código puede ser más inestable si se le añade soporte internacional que si se diseña inicialmente como software internacional.",
+          "en": "Code can be more unstable if international support is added rather than being designed as international software initially."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      }
+    ]
+  }
+  

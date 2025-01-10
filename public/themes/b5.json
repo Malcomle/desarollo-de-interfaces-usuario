@@ -1,0 +1,173 @@
+{
+    "title": {
+        "es": "Autoevaluación - Ingeniería de la IU (requisitos)",
+        "en": "Self-Assessment - UI Engineering (Requirements)"
+    },
+    "questions": [
+        {
+            "id": 1,
+            "question": {
+                "es": "El Análisis de requisitos en la Ingeniería del Software determina requisitos funcionales (servicios que ofrecerá el sistema) y lógicos (p.e. en el código del programa).",
+                "en": "Requirements analysis in Software Engineering determines functional requirements (services the system will offer) and logical requirements (e.g., in the program's code)."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        },
+        {
+            "id": 2,
+            "question": {
+                "es": "El Análisis de Requisitos incluye el estudio de los usuarios potenciales desde el punto de vista de su nivel de experiencia, grado de conocimiento, uso de equipos, etc. Este estudio recae en una actividad conocida como Análisis Contextual de Tareas.",
+                "en": "Requirements Analysis includes studying potential users in terms of their level of experience, knowledge, use of equipment, etc. This activity is known as Task Contextual Analysis."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        },
+        {
+            "id": 3,
+            "question": {
+                "es": "Los Objetivos de la Usabilidad definen los objetivos mínimos para que el usuario pueda disponer de un buen funcionamiento del sistema y un conjunto de prioridades a aplicar a dichos objetivos.",
+                "en": "Usability Objectives define the minimum goals for the user to have proper system functionality and a set of priorities to apply to these goals."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        },
+        {
+            "id": 4,
+            "question": {
+                "es": "Las tareas suelen estar asignadas a los actores. Por ello, puede haber dos roles con las mismas tareas asignadas.",
+                "en": "Tasks are usually assigned to actors. Therefore, two roles may have the same assigned tasks."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        },
+        {
+            "id": 5,
+            "question": {
+                "es": "El Análisis etnográfico utilizado en el diseño de IU se utiliza para estudiar a los usuarios potenciales de la aplicación para aprender lo que hacen, cómo lo hacen y como interactúan entre sí, básicamente.",
+                "en": "Ethnographic analysis in UI design is used to study potential application users to learn what they do, how they do it, and how they interact with each other."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        },
+        {
+            "id": 6,
+            "question": {
+                "es": "La Organización, dentro del A. de Requisitos, identifica la relación que puede existir entre los distintos actores y roles en el contexto de las tareas a realizar.",
+                "en": "Organization within Requirements Analysis identifies the relationships that may exist between different actors and roles in the task context."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        },
+        {
+            "id": 7,
+            "question": {
+                "es": "El Análisis de requisitos en el modelo de proceso de la Ingeniería de la Usabilidad incluye más aspectos que el Análisis de requisitos de la Ingeniería del Software.",
+                "en": "Requirements analysis in the usability engineering process model includes more aspects than requirements analysis in software engineering."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        },
+        {
+            "id": 8,
+            "question": {
+                "es": "El Análisis etnográfico se realiza mediante un cuestionario que se le envía a un subconjunto de los usuarios potenciales.",
+                "en": "Ethnographic analysis is conducted through a questionnaire sent to a subset of potential users."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Falso",
+                "en": "False"
+            }
+        },
+        {
+            "id": 9,
+            "question": {
+                "es": "Un actor puede tener varios roles en un sistema.",
+                "en": "An actor can have multiple roles in a system."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        },
+        {
+            "id": 10,
+            "question": {
+                "es": "En el Análisis contextual de tareas pueden aparecer tareas que realiza el sistema actual y que no podrán ser implementadas en la aplicación que se pretende realizar.",
+                "en": "In Task Contextual Analysis, tasks performed by the current system that cannot be implemented in the intended application may appear."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        },
+        {
+            "id": 11,
+            "question": {
+                "es": "La Accesibilidad es una parte de la Usabilidad en el modelo de calidad de producto ISO/IEC 25000.",
+                "en": "Accessibility is a part of Usability in the ISO/IEC 25000 product quality model."
+            },
+            "answers": {
+                "es": ["Verdadero", "Falso"],
+                "en": ["True", "False"]
+            },
+            "correctAnswer": {
+                "es": "Verdadero",
+                "en": "True"
+            }
+        }
+    ]
+}

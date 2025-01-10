@@ -1,0 +1,158 @@
+{
+  "title": {
+      "es": "Autoevaluación Ingeniería de la IU (general)",
+      "en": "Self-Assessment - UI Engineering (General)"
+  },
+  "questions": [
+      {
+          "id": 1,
+          "question": {
+              "es": "El usuario debe conocer la estructura interna de una aplicación para interaccionar con ella.",
+              "en": "The user must know the internal structure of an application to interact with it."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Falso",
+              "en": "False"
+          }
+      },
+      {
+          "id": 2,
+          "question": {
+              "es": "El modelo de proceso de la Ingeniería de la Usabilidad y la Accesibilidad se sustenta en 3 pilares (el ciclo de Ingenieria del Software clásico, el Prototipado y la Evaluación).",
+              "en": "The process model of Usability and Accessibility Engineering is based on three pillars (the classic Software Engineering cycle, Prototyping, and Evaluation)."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Verdadero",
+              "en": "True"
+          }
+      },
+      {
+          "id": 3,
+          "question": {
+              "es": "En la Ingeniería de la Usabilidad, el usuario se coloca en el centro del desarrollo y el ciclo de vida se lleva a cabo en una iteración en la que se incluyen acciones análisis, diseño, implementación y lanzamiento.",
+              "en": "In Usability Engineering, the user is placed at the center of development, and the lifecycle is carried out in an iteration including analysis, design, implementation, and launch."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Verdadero",
+              "en": "True"
+          }
+      },
+      {
+          "id": 4,
+          "question": {
+              "es": "Es necesario realizar todas las actividades que incluye cada parte del modelo de proceso de la Ingeniería de la Usabilidad y Accesibilidad para poder diseñar una IU.",
+              "en": "It is necessary to perform all activities included in each part of the Usability and Accessibility Engineering process model to design a UI."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Falso",
+              "en": "False"
+          }
+      },
+      {
+          "id": 5,
+          "question": {
+              "es": "El modelo de proceso de la Ingeniería de la Usabilidad y la Usabilidad puede ser utilizado sólo en proyectos de productos web.",
+              "en": "The process model of Usability Engineering can only be used for web product projects."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Falso",
+              "en": "False"
+          }
+      },
+      {
+          "id": 6,
+          "question": {
+              "es": "El diseño de una IU a través del modelo de Proceso de la I. de la Usab. y la Acc. no puede realizarse en ciclos iterativos.",
+              "en": "UI design through the Usability and Accessibility process model cannot be done in iterative cycles."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Falso",
+              "en": "False"
+          }
+      },
+      {
+          "id": 7,
+          "question": {
+              "es": "El diseño de un SI implica realizar un diseño pensando en el usuario.",
+              "en": "The design of an IS involves designing with the user in mind."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Verdadero",
+              "en": "True"
+          }
+      },
+      {
+          "id": 8,
+          "question": {
+              "es": "La Ingeniería de la Usabilidad es el desarrollo de software usable.",
+              "en": "Usability Engineering is the development of usable software."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Verdadero",
+              "en": "True"
+          }
+      },
+      {
+          "id": 9,
+          "question": {
+              "es": "Existen distintas técnicas de evaluación de una IU.",
+              "en": "There are different UI evaluation techniques."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Verdadero",
+              "en": "True"
+          }
+      },
+      {
+          "id": 10,
+          "question": {
+              "es": "Uno de los objetivos más importantes del modelo de Proceso de la Usabilidad y Accesibilidad es el diseño de prototipos en fases tempranas del ciclo de vida de una IU para que puedan ser evaluadas y permitan obtener nueva información que mejore las actividades realizadas hasta ese instante.",
+              "en": "One of the main objectives of the Usability and Accessibility process model is to design prototypes in the early stages of a UI's lifecycle, allowing for evaluation and the gathering of new information to improve activities performed up to that point."
+          },
+          "answers": {
+              "es": ["Verdadero", "Falso"],
+              "en": ["True", "False"]
+          },
+          "correctAnswer": {
+              "es": "Verdadero",
+              "en": "True"
+          }
+      }
+  ]
+}

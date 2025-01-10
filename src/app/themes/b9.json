@@ -1,0 +1,114 @@
+{
+    "title": {
+      "es": "Autoevaluación - Ingeniería de la IU (prototipo)",
+      "en": "Self-Assessment - UI Engineering (Prototype)"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "es": "La razón principal del prototipo es la redución de coste y tiempo con respecto al sistema que se implemente finalmente.",
+          "en": "The main reason for prototyping is to reduce cost and time compared to the final implemented system."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "es": "Un prototipo software evolutivo es un tipo de prototipo software que se utiliza para hacer una evaluación con el usuario y posteriormente se desecha.",
+          "en": "An evolutionary software prototype is a type of software prototype used for user evaluation and then discarded."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "es": "Un prototipo horizontal es un prototipo que incluye sólo la ventana principal de la interfaz pero no la funcionalidad subyacente.",
+          "en": "A horizontal prototype includes only the main window of the interface but not the underlying functionality."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "es": "Mediante un prototipo software se puede hacer una maqueta de una IU para su evaluación y posteriormente desechar.",
+          "en": "A software prototype can be used to create a UI mockup for evaluation and then discarded."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "es": "Un prototipo vertical es un tipo de prototipo que implementa una parte pequeña del sistema pero esa parte tendrá plena funcionalidad.",
+          "en": "A vertical prototype is a type of prototype that implements a small part of the system but with full functionality."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "es": "Un Storyboard es un video que se realiza grabando a un usuario representativo mientras usa la interfaz de usuario del nuevo sistema.",
+          "en": "A storyboard is a video recorded of a representative user using the new system's user interface."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "es": "Un prototipo de papel se realiza posteriormente de un prototipo software.",
+          "en": "A paper prototype is created after a software prototype."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      }
+    ]
+  }
+  

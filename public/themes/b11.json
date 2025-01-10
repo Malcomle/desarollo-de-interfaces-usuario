@@ -1,0 +1,159 @@
+{
+    "title": {
+      "es": "Autoevaluación - Accesibilidad",
+      "en": "Self-Assessment - Accessibility"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "es": "La deficiencia relacionada con la vista reducida se solventa diseñando las aplicaciones con textos, iconos, etc. muy grandes.",
+          "en": "Visual impairment is addressed by designing applications with very large texts, icons, etc."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "es": "La Iniciativa de Accesibilidad Web (WAI) promueve, entre otros aspectos, el desarrollo de herramientas para evaluar la accesibilidad en aplicaciones clásicas.",
+          "en": "The Web Accessibility Initiative (WAI) promotes, among other things, the development of tools to evaluate accessibility in classic applications."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "es": "Las personas con discapacidades auditivas tienen menos problemas con las interfaces actuales porque en general son interfaces visuales.",
+          "en": "People with hearing disabilities face fewer problems with current interfaces because they are generally visual."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "es": "El teclado puede ser usado por los invidentes como dispositivo de navegación.",
+          "en": "The keyboard can be used by blind people as a navigation device."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "es": "Cuando se diseña teniendo en cuenta la Usabilidad universal hay que evitar diseñar para grupos de población específicos.",
+          "en": "When designing with universal usability in mind, you should avoid designing for specific population groups."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "es": "Todavía hay muchos desarrolladores que tiene la percepción que el volumen de la población con necesidades especiales no es lo suficientemente importante, por lo que no diseñan teniendo en cuenta estas necesidades.",
+          "en": "Many developers still perceive that the population size with special needs is not significant enough, so they don't design with these needs in mind."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "es": "Con la Usabilidad universal se pretende que nadie se vea limitado en el uso de un sistema informático por razones de raza, sexo o color.",
+          "en": "Universal usability aims to ensure no one is limited in using a computer system due to race, gender, or color."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 8,
+        "question": {
+          "es": "El principio 'Uso flexible' nos indica que el diseño debe acomodarse a los usuarios mediante la construcción de distintas interfaces de usuario.",
+          "en": "The principle of 'Flexible Use' indicates that design should adapt to users by creating different user interfaces."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 9,
+        "question": {
+          "es": "Existen guías diseñadas para ayudar al programador a crear páginas web de modo apropiado.",
+          "en": "There are guidelines designed to help programmers create web pages appropriately."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 10,
+        "question": {
+          "es": "En el caso de la ceguera, las pantallas de los ordenadores se usan sólo para representar la realimentación de las interfaces de usuario.",
+          "en": "In the case of blindness, computer screens are used only to display user interface feedback."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      }
+    ]
+  }
+  

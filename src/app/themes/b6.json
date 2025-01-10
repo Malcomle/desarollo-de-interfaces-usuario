@@ -1,0 +1,264 @@
+{
+    "title": {
+      "es": "Autoevaluación - Ingeniería de la IU (diseño)",
+      "en": "Self-Assessment - UI Engineering (Design)"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "es": "En el modelo conceptual nos centramos en la descripción del conocimiento que el usuario debe de tener acerca del sistema, para conseguir un correcto funcionamiento.",
+          "en": "In the conceptual model, we focus on describing the knowledge the user must have about the system to achieve proper functionality."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "es": "Un método de Análisis de tareas descriptivo permite obtener una descripción del sistema a partir de la información obtenida de las tareas.",
+          "en": "A descriptive task analysis method allows obtaining a description of the system based on information gathered from tasks."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "es": "El modelo conceptual utiliza el lenguaje natural para su definición.",
+          "en": "The conceptual model uses natural language for its definition."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "es": "En un Diagrama de Transición de Estados (STN) se pueden representar estados, transiciones entre estados e incluso a los actores que han provocado dicha transición.",
+          "en": "In a State Transition Diagram (STN), states, state transitions, and even actors causing those transitions can be represented."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "es": "El análisis de tareas es una parte del diseño de la actividad y el modelado del díalogo es una parte del diseño de la información.",
+          "en": "Task analysis is part of activity design, and dialogue modeling is part of information design."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "es": "La aproximación empírica al diseño de IU es mejor que la aproximación metodológica.",
+          "en": "The empirical approach to UI design is better than the methodological approach."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "es": "El modelo conceptual es normalmente más consistente que el modelo mental.",
+          "en": "The conceptual model is usually more consistent than the mental model."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 8,
+        "question": {
+          "es": "El Análisis de tareas se puede definir como el estudio de lo que un usuario tiene que realizar en términos de acciones y/o procesos cognitivos para conseguir un objetivo.",
+          "en": "Task analysis can be defined as the study of what a user must perform in terms of actions and/or cognitive processes to achieve a goal."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 9,
+        "question": {
+          "es": "Un modelo de diálogo describe la estructura del diálogo, o sea, la descripción de la comunicación de cada participante.",
+          "en": "A dialogue model describes the dialogue structure, i.e., the description of each participant's communication."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 10,
+        "question": {
+          "es": "En HTA se realiza una descripción de tareas en términos de planes y comunicaciones.",
+          "en": "In HTA, a task description is created in terms of plans and communications."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 11,
+        "question": {
+          "es": "Cuando un diagrama de actividad se utiliza para representar un modelo de tareas, se representan los dos roles que interactúan en dicha tarea.",
+          "en": "When an activity diagram is used to represent a task model, it represents the two roles interacting in that task."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 12,
+        "question": {
+          "es": "Cuando se modela el diálogo con un diagrama de máquinas de estado, conceptualmente existe la operación de elección o decisión, pero no existe la operación de unión de dicha decisión.",
+          "en": "When modeling dialogue with a state machine diagram, conceptually there is the choice or decision operation, but not the union of that decision."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 13,
+        "question": {
+          "es": "Las guías de estilo son una parte esencial del diseño de la información.",
+          "en": "Style guides are an essential part of information design."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 14,
+        "question": {
+          "es": "Los principios básicos en el uso del color establecen que un número elevado de tipos de colores usados dificulta recordar su significado.",
+          "en": "The basic principles of color use state that a large number of color types used makes it difficult to remember their meaning."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 15,
+        "question": {
+          "es": "El concepto de \"simetría\" trata de equilibrar la cantidad de elementos que hay en los cuadrantes de una interfaz.",
+          "en": "The concept of \"symmetry\" involves balancing the number of elements in the quadrants of an interface."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 16,
+        "question": {
+          "es": "El texto del botón \"Guardar\" para almacenar información en una base de datos es un ejemplo de realimentación \"presente\".",
+          "en": "The text on the \"Save\" button for storing information in a database is an example of \"present\" feedback."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 17,
+        "question": {
+          "es": "Los errores producidos porque la intención del usuario era correcta pero las acciones han sido incorrectas suelen deberse a un diseño incorrecto.",
+          "en": "Errors caused by correct user intentions but incorrect actions are usually due to bad design."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      }
+    ]
+  }
+  

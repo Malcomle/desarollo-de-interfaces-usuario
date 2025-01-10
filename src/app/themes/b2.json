@@ -1,0 +1,159 @@
+{
+    "title": {
+      "es": "Autoevaluación - El Usuario",
+      "en": "Self-Assessment - The User"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "es": "El nivel de conocimiento o de experiencia de un usuario de un programa de ordenador no es importante en el diseño de la IU de dicho programa.",
+          "en": "The level of knowledge or experience of a user of a computer program is not important in the design of the program's UI."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "es": "Una IU multimodal permite tener distintas resoluciones de la ventana.",
+          "en": "A multimodal UI allows for different window resolutions."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "es": "La capacidad de memorizar de una persona influye en el diseño de un IU.",
+          "en": "A person's memorization capacity influences UI design."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "es": "El Modelo de Procesador Humano (Card-Moran 1983) expone la forma de percibir, procesar y manipular la información por parte de una persona.",
+          "en": "The Human Processor Model (Card-Moran 1983) explains how a person perceives, processes, and manipulates information."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "es": "En el diseño de una IU se suele utilizar asociaciones con elementos cotidianos de la vida real.",
+          "en": "In UI design, associations with everyday real-life elements are often used."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "es": "Un razonamiento Inductivo nos hace generalizar determinadas partes de una IU (p.e. el hecho de disponer de una opción de salir).",
+          "en": "Inductive reasoning leads us to generalize certain parts of a UI (e.g., having an exit option)."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "es": "Es necesario tener en cuenta el factor humano si deseamos tener un buen diseño de IU.",
+          "en": "It is necessary to consider the human factor if we want good UI design."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Verdadero",
+          "en": "True"
+        }
+      },
+      {
+        "id": 8,
+        "question": {
+          "es": "Una IU mal diseñada no afecta al rendimiento de un usuario.",
+          "en": "A poorly designed UI does not affect user performance."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 9,
+        "question": {
+          "es": "Los seres humanos tenemos una capacidad visual similar con respecto a lo necesario para ver una IU de un programa de ordenador.",
+          "en": "Humans have similar visual capabilities when it comes to viewing a computer program's UI."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      },
+      {
+        "id": 10,
+        "question": {
+          "es": "El sentido del ser humano más importante actualmente es el tacto.",
+          "en": "The most important human sense today is touch."
+        },
+        "answers": {
+          "es": ["Verdadero", "Falso"],
+          "en": ["True", "False"]
+        },
+        "correctAnswer": {
+          "es": "Falso",
+          "en": "False"
+        }
+      }
+    ]
+  }
+  
