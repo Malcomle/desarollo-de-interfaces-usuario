@@ -1,33 +1,17 @@
 "use client";
 import { useState } from "react";
-import { Container, Box, Typography, Button, LinearProgress, MenuItem, Select } from "@mui/material";
+import {
+  Container,
+  Box,
+  Typography,
+  Button,
+  LinearProgress,
+  MenuItem,
+  Select,
+} from "@mui/material";
 
-const themes = {
-  "Theme 1": [
-    {
-      "question_label": "Question 1",
-      "affirmation": {
-        "es": "El nivel de conocimiento o de experiencia de un usuario de un programa de ordenador no es importante en el diseño de la IU de dicho programa.",
-        "en": "The level of knowledge or experience of a user of a computer program is not important in the design of the program's UI.",
-        "fr": "Le niveau de connaissance ou d'expérience d'un utilisateur d'un programme informatique n'est pas important dans la conception de l'interface utilisateur du programme."
-      },
-      "correct_answer": "Falso",
-      "options": ["Verdadero", "Falso"]
-    }
-  ],
-  "Theme 2": [
-    {
-      "question_label": "Question 1",
-      "affirmation": {
-        "es": "El usuario tiene la capacidad de adaptarse a interfaces desconocidas fácilmente.",
-        "en": "The user has the ability to adapt to unfamiliar interfaces easily.",
-        "fr": "L'utilisateur a la capacité de s'adapter facilement à des interfaces inconnues."
-      },
-      "correct_answer": "Verdadero",
-      "options": ["Verdadero", "Falso"]
-    }
-  ]
-};
+import {themes} from "./themes";
+
 export default function Home() {
   const [language, setLanguage] = useState("en"); // Default language
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -60,7 +44,12 @@ export default function Home() {
 
   return (
     <Container maxWidth="sm" style={{ marginTop: "50px", textAlign: "center" }}>
-      <Box display="flex" justifyContent="space-between" alignItems="center" mb={2}>
+      <Box
+        display="flex"
+        justifyContent="space-between"
+        alignItems="center"
+        mb={2}
+      >
         <Typography variant="h5">Quiz - UI Design</Typography>
         <Select
           value={selectedTheme}
