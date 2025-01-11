@@ -43,22 +43,27 @@ const themes = {
 export default function Home() {
   const [language, setLanguage] = useState("en"); // Langue par défaut
   const [selectedTheme, setSelectedTheme] = useState("Theme 1"); // Thème par défaut
-  const [questions, setQuestions] = useState(
-    themes[selectedTheme].questions || []
-  );
+  const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
   // Lorsque le thème sélectionné change, on mélange et on réinitialise le quiz
   useEffect(() => {
-    resetQuiz(); 
+    resetQuiz();
   }, [selectedTheme]);
 
-  // Mélange les questions du thème
+  // Mélange les questions du thème ou de tous les thèmes
   const shuffleQuestions = (themeKey) => {
-    const questionsToShuffle = [...themes[themeKey].questions];
-    return questionsToShuffle.sort(() => Math.random() - 0.5);
+    if (themeKey === "All Themes") {
+      const allQuestions = Object.values(themes).flatMap(
+        (theme) => theme.questions
+      );
+      return allQuestions.sort(() => Math.random() - 0.5);
+    } else {
+      const questionsToShuffle = [...themes[themeKey].questions];
+      return questionsToShuffle.sort(() => Math.random() - 0.5);
+    }
   };
 
   const handleAnswer = (answer) => {
@@ -104,8 +109,10 @@ export default function Home() {
       >
         <Typography variant="h5">
           {/* On affiche le titre du thème dans la langue courante (ou en anglais par défaut) */}
-          {themes[selectedTheme].title[language] ||
-            themes[selectedTheme].title["en"]}
+          {selectedTheme === "All Themes"
+            ? "All Themes Quiz"
+            : themes[selectedTheme].title[language] ||
+              themes[selectedTheme].title["en"]}
         </Typography>
 
         {/* Sélecteur de thème */}
@@ -115,6 +122,7 @@ export default function Home() {
             setSelectedTheme(e.target.value);
           }}
         >
+          <MenuItem value="All Themes">All Themes</MenuItem>
           {Object.keys(themes).map((themeKey) => (
             <MenuItem key={themeKey} value={themeKey}>
               {themeKey}
@@ -133,7 +141,7 @@ export default function Home() {
 
       {/* Barre de progression */}
       <Typography variant="h6">
-        Question : {(((currentQuestion / questions.length) * 10)+1 || 0)}
+        Question : {(currentQuestion + 1) || 0} / {questions.length}
       </Typography>
       <LinearProgress
         variant="determinate"
